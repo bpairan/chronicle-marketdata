@@ -1,0 +1,15 @@
+Excerpt 1
+{
+messageType: A
+bytes: 101010001
+nextIndex: 4
+}
+Excerpt 2{}
+Excerpt 3{}
+
+Excerpt 4
+{
+messageType: A
+bytes: 101010001
+nextIndex:
+}
